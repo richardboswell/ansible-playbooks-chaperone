@@ -14,13 +14,13 @@
 #  limitations under the License.
 #
 [chaperone-ui]
-chaperone-ui.corp.local:22222
+chaperone-ui.corp.local
 
 [routers]
 chaperone-ui.corp.local
 
 [base]
-chaperone-ui.corp.local:22222
+chaperone-ui.corp.local
 
 [base:vars]
 ansible_user='vmware'
